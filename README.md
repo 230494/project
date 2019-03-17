@@ -1,4 +1,4 @@
-# project
+# project E-Voting
 Sistem ini adalah E-voting untuk pemilihan calon ketua BEM. 
 Sistem yang saya buat menggunakan Yii versi 1. Sistem ini belum termasuk database.
 Berikut petunjuk untuk instalasinya:
