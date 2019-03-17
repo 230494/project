@@ -1,5 +1,5 @@
 # project
-Sistem ini merupakan Tugas Akhir saya yang berkaitan dengan E-voting untuk pemilihan calon ketua BEM. 
+Sistem ini adalah E-voting untuk pemilihan calon ketua BEM. 
 Sistem yang saya buat menggunakan Yii versi 1. Sistem ini belum termasuk database.
 Berikut petunjuk untuk instalasinya:
 1. Unzip file ini ke dalam folder htdocs, misalnya C:/xampp/htdocs/project
